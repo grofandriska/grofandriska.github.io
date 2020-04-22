@@ -1,0 +1,84 @@
+body{
+  display:block;
+  width:1000px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+header{
+  width:100%;
+
+  position:relative; 
+
+  font-family: 'Abril Fatface', cursive;color:
+ }
+.nametag{;
+  font-size:20px;
+  display:flex;
+  font-family: 'Abril Fatface', cursive;
+
+  
+}
+.Anakinname{
+  position:absolute;
+  left:auto;
+  bottom:100px;
+  ;
+
+}
+.AKA{position:absolute;
+  margin-left:20px;
+  bottom:10px;
+}
+main{
+
+  margin-top: 50px;
+  margin-left: auto; 
+  margin-right: auto;
+  line-height: 1.6;background:
+}
+article{margin-left:auto;
+  margin-right:auto;
+  background:;
+  width:790px}
+div{background:white;
+  width:800px;
+  margin-left:auto;
+  margin-right:auto}
+p{;
+  font-size:17px;
+  font-family: 'Josefin Sans', sans-serif;
+  margin-top:50px;background:
+}
+ul{font-size:19px;
+  margin-left:80px;color:#222 grey}
+
+.rule{
+
+  background: grey;
+  color: white;
+  display: flex;
+  position: relative;
+  width: 800px;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-top: 30px;
+}
+
+.rule p{margin-left:40px; font-size: 50px;
+  font-weight: 500;font-family: 'Abril Fatface', cursive;
+}
+
+.rule p:before{
+  content: '“';
+  position: absolute;
+  top: -45px;
+  left: 0;
+  font-size: 140px;
+  color:white}
+
+.h2{font-family: 'Abril Fatface', cursive;color:
+}
+
+
+.personal{font-family: 'Merriweather', serif;
+}
